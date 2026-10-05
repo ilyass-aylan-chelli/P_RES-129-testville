@@ -50,8 +50,6 @@ mobiles répartis sur 3 bâtiments, avec un Wi-Fi invité séparé.
 
 ### Topologie
 
-![Topologie](schema/topologie.png)
-
 - **Routeur 1** : bibliothèque (VLAN 20 et 70)
 - **Routeur 2** : Hôtel de ville (VLAN 10, 30, 40, 50), routeur central
 - **Routeur 3** : atelier des services techniques (VLAN 60)
