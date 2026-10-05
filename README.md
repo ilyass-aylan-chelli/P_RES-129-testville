@@ -59,14 +59,13 @@ mobiles répartis sur 3 bâtiments, avec un Wi-Fi invité séparé.
 
 | Dossier | Contenu |
 |---|---|
-| `cahier-des-charges/` | Cahiers des charges général et du groupe 1 |
-| `schema/` | Schéma réseau (draw.io) |
-| `adressage/` | Plan d'adressage IP (Excel) |
-| `packet-tracer/` | Simulation fonctionnelle (.pkt) |
-| `configs/` | Commandes CLI de chaque équipement |
-| `docs/` | Documentation de configuration et journal de travail |
-| `presentation/` | Présentation pour l'oral |
-
+| `cdc/` | Cahiers des charges général et du groupe 1 |
+| `shéma réeseau/` | Schéma réseau (draw.io) |
+| `plan_adressage/` | Plan d'adressage IP (Excel) |
+| `commande-configuration/` | Simulation Packet Tracer (.pkt) et commandes CLI de chaque équipement |
+| `journal de travaille-ilyass-chelli/` | Journal de travail |
+| `présenation/` | Présentation pour l'oral (PDF) |
+| `version-acl/` | Version avec ACL : schéma, simulation Packet Tracer et configurations |
 ## Utilisation
 
 1. Ouvrir `packet-tracer/SANS_ACL.pkt` avec Cisco Packet Tracer.
