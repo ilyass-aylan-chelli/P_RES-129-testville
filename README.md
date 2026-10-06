@@ -64,7 +64,7 @@ mobiles répartis sur 3 bâtiments, avec un Wi-Fi invité séparé.
 | `plan_adressage/` | Plan d'adressage IP (Excel) |
 | `commande-configuration/` | Simulation Packet Tracer (.pkt) et commandes CLI de chaque équipement |
 | `journal de travaille-ilyass-chelli/` | Journal de travail |
-| `présenation/` | Présentation pour l'oral (PDF) |
+| `présenation/` | Présentation pour l'oral (PDF), (pptx) aidée par l'ia pour faire une belle présenation (je précise que l'ia n'a pas été utiliser pour le projet sauf pour la présentation) |
 | `version-acl/` | Version avec ACL : schéma, simulation Packet Tracer et configurations |
 ## Utilisation
 
